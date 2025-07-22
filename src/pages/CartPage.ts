@@ -7,6 +7,8 @@ export default class CartPage {
   private readonly cartBadgeLocator = '//*[@id="shopping_cart_container"]/a/span'; 
   private readonly productNames = '.inventory_item_name';
   private readonly productPrices = '.inventory_item_price'
+  private readonly removeButtons = '.btn_secondary.cart_button';
+  private readonly cartItemLocator = '.cart_item';
 
   constructor(private page: Page) {}
 
@@ -59,6 +61,16 @@ export default class CartPage {
     logger.info('Verified items in the cart match the items added.');
   }
 
+  async deleteAllCartItems() {
+    const removeButtons = this.page.locator(this.removeButtons);
+    const itemsInCart = await removeButtons.count();
+    console.log(`Items in cart: ${itemsInCart}`);
+
+    for (let i = 0; i < itemsInCart; i++) {
+      await removeButtons.nth(0).click(); // always click the first one since list updates
+    }
+    await expect(this.page.locator(this.cartItemLocator)).toHaveCount(0);
+  }
 
   async clickCheckoutBtn() {
     await this.page.locator(this.checkoutBtn).click();

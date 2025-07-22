@@ -18,6 +18,9 @@ export default class HomePage {
   private readonly productLocator = '.inventory_item_name';
   private readonly addToCartButtonLocator = '.btn_inventory';
   private readonly cartBadgeLocator = '//*[@id="shopping_cart_container"]/a/span'; 
+  private readonly pageTitleLocator = '.product_label';
+  private readonly allItems = '#inventory_sidebar_link';
+  private readonly pageMenu = '//*[@id="menu_button_container"]//div[3]//button';
 
   private productName(i: number): string {
     return `//*[@class='inventory_item'][${i}]//*[@class='inventory_item_name']`
@@ -167,5 +170,12 @@ export default class HomePage {
       logger.info("Contacts Tab is clicked")
       // return new ContactPage(this.page);
       
+    }
+
+    async navigateToAllItems(){
+      await this.page.click(this.pageMenu);
+      await this.page.click(this.allItems);
+      const title = this.page.locator(this.pageTitleLocator); // This is the title element
+      await expect(title).toHaveText('Products');
     }
 }

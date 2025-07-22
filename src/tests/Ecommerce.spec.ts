@@ -35,7 +35,19 @@ test.describe('E-commerce E2E', () => {
     await homePage.verifyProductsSortedByPriceLowToHigh();
   });
 
-  test('Add items to the cart and perfom checkout ', async () => {
+  test('Add items to the cart', async () => {
+    await homePage.navigateToAllItems();
+    await homePage.addItemsToCart();
+    await cartPage.verifyItemsInCart();
+  });
+
+  test('Delete all items from the cart', async () => {
+    await cartPage.deleteAllCartItems();
+  });
+
+   test('Add items to the cart and perfom checkout ', async () => {
+
+    await homePage.navigateToAllItems();
     await homePage.addItemsToCart();
 
     await cartPage.verifyItemsInCart();
@@ -47,7 +59,7 @@ test.describe('E-commerce E2E', () => {
     await overviewPage.validateOverviewOrderList();
     await overviewPage.validateTotalPrice();
     await overviewPage.clickFinishBtn();
-    
+
     await finishPage.validateOrderCompletionMessage();
 
   });

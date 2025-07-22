@@ -686,3 +686,236 @@
 2024-08-10T06:24:41-04:00 [info]: Verified items in the cart match the items added.
 2024-08-10T06:24:42-04:00 [info]: Finish button clicked
 2024-08-10T06:24:42-04:00 [info]: Order completion message verified: 'THANK YOU FOR YOUR ORDER'
+2025-07-22T08:29:14-04:00 [info]: Navigated to url
+2025-07-22T08:29:14-04:00 [info]: Filled username
+2025-07-22T08:29:14-04:00 [info]: Filled pasword
+2025-07-22T08:29:15-04:00 [info]: Login successful, redirected to inventory page.
+2025-07-22T08:30:53-04:00 [info]: Navigated to url
+2025-07-22T08:30:53-04:00 [info]: Filled username
+2025-07-22T08:30:53-04:00 [info]: Filled pasword
+2025-07-22T08:30:53-04:00 [warn]: Error message found: Epic sadface: Sorry, this user has been locked out.
+2025-07-22T08:51:40-04:00 [info]: Navigated to url
+2025-07-22T08:51:40-04:00 [info]: Navigated to url
+2025-07-22T08:51:40-04:00 [info]: Filled username
+2025-07-22T08:51:40-04:00 [info]: Filled username
+2025-07-22T08:51:40-04:00 [info]: Filled pasword
+2025-07-22T08:51:40-04:00 [info]: Filled pasword
+2025-07-22T08:51:40-04:00 [warn]: Error message found: Epic sadface: Sorry, this user has been locked out.
+2025-07-22T08:51:41-04:00 [info]: Login successful, redirected to inventory page.
+2025-07-22T08:52:13-04:00 [info]: Navigated to url
+2025-07-22T08:52:13-04:00 [info]: Navigated to url
+2025-07-22T08:52:13-04:00 [info]: Navigated to url
+2025-07-22T08:52:13-04:00 [info]: Navigated to url
+2025-07-22T08:52:13-04:00 [info]: Filled username
+2025-07-22T08:52:13-04:00 [info]: Filled username
+2025-07-22T08:52:13-04:00 [info]: Filled username
+2025-07-22T08:52:13-04:00 [info]: Filled pasword
+2025-07-22T08:52:13-04:00 [info]: Filled username
+2025-07-22T08:52:13-04:00 [info]: Filled pasword
+2025-07-22T08:52:13-04:00 [info]: Filled pasword
+2025-07-22T08:52:13-04:00 [info]: Filled pasword
+2025-07-22T08:52:13-04:00 [info]: Login successful, redirected to inventory page.
+2025-07-22T08:52:13-04:00 [info]: Login successful, redirected to inventory page.
+2025-07-22T08:52:13-04:00 [info]: Login successful, redirected to inventory page.
+2025-07-22T08:52:13-04:00 [info]: Login successful, redirected to inventory page.
+2025-07-22T08:52:15-04:00 [info]: Applied filter by Name (Descending Order)
+2025-07-22T08:52:15-04:00 [info]: Selected sort option is correctly displayed as: Name (Z to A)
+2025-07-22T08:52:15-04:00 [info]: Product listings are correctly sorted by Name (Descending Order)
+2025-07-22T08:52:15-04:00 [info]: All items removed from the cart and localStorage cleared.
+2025-07-22T08:52:15-04:00 [info]: Applied filter by Price (Low to High)
+2025-07-22T08:52:15-04:00 [info]: Selected sort option is correctly displayed as: Price (low to high)
+2025-07-22T08:52:15-04:00 [info]: Product listings are updated according to the Price (Low to High) filter
+2025-07-22T08:52:15-04:00 [info]: Items added to cart and stored in local storage
+2025-07-22T08:52:15-04:00 [info]: Items added to cart and stored in local storage
+2025-07-22T08:52:16-04:00 [info]: Verified items in the cart match the items added.
+2025-07-22T08:52:16-04:00 [info]: Entered Personal information
+2025-07-22T08:52:17-04:00 [info]: Continue button clicked in checkout page
+2025-07-22T08:52:17-04:00 [info]: Total price validation passed. Calculated total price matches the value on the checkout summary page.
+2025-07-22T08:52:17-04:00 [info]: Verified items in the cart match the items added.
+2025-07-22T08:52:17-04:00 [info]: Finish button clicked
+2025-07-22T08:52:17-04:00 [info]: Order completion message verified: 'THANK YOU FOR YOUR ORDER'
+2025-07-22T08:54:12-04:00 [info]: Navigated to url
+2025-07-22T08:54:12-04:00 [info]: Filled username
+2025-07-22T08:54:12-04:00 [info]: Filled pasword
+2025-07-22T08:54:12-04:00 [info]: Login successful, redirected to inventory page.
+2025-07-22T08:54:14-04:00 [info]: Items added to cart and stored in local storage
+2025-07-22T08:54:15-04:00 [info]: Entered Personal information
+2025-07-22T08:54:16-04:00 [info]: Continue button clicked in checkout page
+2025-07-22T08:54:16-04:00 [info]: Total price validation passed. Calculated total price matches the value on the checkout summary page.
+2025-07-22T08:54:16-04:00 [info]: Verified items in the cart match the items added.
+2025-07-22T08:54:16-04:00 [info]: Finish button clicked
+2025-07-22T08:54:16-04:00 [info]: Order completion message verified: 'THANK YOU FOR YOUR ORDER'
+2025-07-22T09:08:52-04:00 [info]: Navigated to url
+2025-07-22T09:08:52-04:00 [info]: Navigated to url
+2025-07-22T09:08:52-04:00 [info]: Navigated to url
+2025-07-22T09:08:52-04:00 [info]: Filled username
+2025-07-22T09:08:52-04:00 [info]: Filled username
+2025-07-22T09:08:52-04:00 [info]: Filled username
+2025-07-22T09:08:52-04:00 [info]: Filled pasword
+2025-07-22T09:08:52-04:00 [info]: Filled pasword
+2025-07-22T09:08:52-04:00 [info]: Filled pasword
+2025-07-22T09:08:52-04:00 [info]: Navigated to url
+2025-07-22T09:08:52-04:00 [info]: Filled username
+2025-07-22T09:08:52-04:00 [info]: Filled pasword
+2025-07-22T09:08:52-04:00 [info]: Login successful, redirected to inventory page.
+2025-07-22T09:08:52-04:00 [info]: Login successful, redirected to inventory page.
+2025-07-22T09:08:52-04:00 [info]: Login successful, redirected to inventory page.
+2025-07-22T09:08:52-04:00 [info]: Login successful, redirected to inventory page.
+2025-07-22T09:08:58-04:00 [info]: All items removed from the cart and localStorage cleared.
+2025-07-22T09:08:58-04:00 [info]: Applied filter by Name (Descending Order)
+2025-07-22T09:08:58-04:00 [info]: Selected sort option is correctly displayed as: Name (Z to A)
+2025-07-22T09:08:58-04:00 [info]: Product listings are correctly sorted by Name (Descending Order)
+2025-07-22T09:08:58-04:00 [info]: Applied filter by Price (Low to High)
+2025-07-22T09:08:58-04:00 [info]: Selected sort option is correctly displayed as: Price (low to high)
+2025-07-22T09:08:58-04:00 [info]: Product listings are updated according to the Price (Low to High) filter
+2025-07-22T09:12:24-04:00 [info]: Navigated to url
+2025-07-22T09:12:24-04:00 [info]: Filled username
+2025-07-22T09:12:24-04:00 [info]: Filled pasword
+2025-07-22T09:12:25-04:00 [info]: Login successful, redirected to inventory page.
+2025-07-22T09:15:08-04:00 [info]: Navigated to url
+2025-07-22T09:15:08-04:00 [info]: Navigated to url
+2025-07-22T09:15:08-04:00 [info]: Navigated to url
+2025-07-22T09:15:08-04:00 [info]: Navigated to url
+2025-07-22T09:15:08-04:00 [info]: Filled username
+2025-07-22T09:15:08-04:00 [info]: Filled pasword
+2025-07-22T09:15:08-04:00 [info]: Filled username
+2025-07-22T09:15:08-04:00 [info]: Filled username
+2025-07-22T09:15:08-04:00 [info]: Filled username
+2025-07-22T09:15:08-04:00 [info]: Filled pasword
+2025-07-22T09:15:08-04:00 [info]: Filled pasword
+2025-07-22T09:15:08-04:00 [info]: Filled pasword
+2025-07-22T09:15:09-04:00 [info]: Login successful, redirected to inventory page.
+2025-07-22T09:15:09-04:00 [info]: Login successful, redirected to inventory page.
+2025-07-22T09:15:09-04:00 [info]: Login successful, redirected to inventory page.
+2025-07-22T09:15:09-04:00 [info]: Login successful, redirected to inventory page.
+2025-07-22T09:15:11-04:00 [info]: All items removed from the cart and localStorage cleared.
+2025-07-22T09:15:11-04:00 [info]: Applied filter by Name (Descending Order)
+2025-07-22T09:15:11-04:00 [info]: Selected sort option is correctly displayed as: Name (Z to A)
+2025-07-22T09:15:11-04:00 [info]: Product listings are correctly sorted by Name (Descending Order)
+2025-07-22T09:15:11-04:00 [info]: Applied filter by Price (Low to High)
+2025-07-22T09:15:11-04:00 [info]: Selected sort option is correctly displayed as: Price (low to high)
+2025-07-22T09:15:11-04:00 [info]: Product listings are updated according to the Price (Low to High) filter
+2025-07-22T09:17:58-04:00 [info]: Navigated to url
+2025-07-22T09:17:59-04:00 [info]: Filled username
+2025-07-22T09:17:59-04:00 [info]: Filled pasword
+2025-07-22T09:17:59-04:00 [info]: Login successful, redirected to inventory page.
+2025-07-22T09:23:04-04:00 [info]: Navigated to url
+2025-07-22T09:23:04-04:00 [info]: Navigated to url
+2025-07-22T09:23:04-04:00 [info]: Navigated to url
+2025-07-22T09:23:04-04:00 [info]: Navigated to url
+2025-07-22T09:23:04-04:00 [info]: Filled username
+2025-07-22T09:23:04-04:00 [info]: Filled username
+2025-07-22T09:23:04-04:00 [info]: Filled username
+2025-07-22T09:23:04-04:00 [info]: Filled username
+2025-07-22T09:23:04-04:00 [info]: Filled pasword
+2025-07-22T09:23:04-04:00 [info]: Filled pasword
+2025-07-22T09:23:04-04:00 [info]: Filled pasword
+2025-07-22T09:23:04-04:00 [info]: Filled pasword
+2025-07-22T09:23:05-04:00 [info]: Login successful, redirected to inventory page.
+2025-07-22T09:23:05-04:00 [info]: Login successful, redirected to inventory page.
+2025-07-22T09:23:05-04:00 [info]: Login successful, redirected to inventory page.
+2025-07-22T09:23:05-04:00 [info]: Login successful, redirected to inventory page.
+2025-07-22T09:23:07-04:00 [info]: Applied filter by Name (Descending Order)
+2025-07-22T09:23:07-04:00 [info]: Selected sort option is correctly displayed as: Name (Z to A)
+2025-07-22T09:23:07-04:00 [info]: All items removed from the cart and localStorage cleared.
+2025-07-22T09:23:07-04:00 [info]: Product listings are correctly sorted by Name (Descending Order)
+2025-07-22T09:23:07-04:00 [info]: Applied filter by Price (Low to High)
+2025-07-22T09:23:07-04:00 [info]: Selected sort option is correctly displayed as: Price (low to high)
+2025-07-22T09:23:07-04:00 [info]: Product listings are updated according to the Price (Low to High) filter
+2025-07-22T09:23:09-04:00 [info]: Items added to cart and stored in local storage
+2025-07-22T09:23:09-04:00 [info]: Items added to cart and stored in local storage
+2025-07-22T09:23:09-04:00 [info]: Verified items in the cart match the items added.
+2025-07-22T09:23:10-04:00 [info]: Entered Personal information
+2025-07-22T09:23:11-04:00 [info]: Continue button clicked in checkout page
+2025-07-22T09:23:11-04:00 [info]: Total price validation passed. Calculated total price matches the value on the checkout summary page.
+2025-07-22T09:23:11-04:00 [info]: Verified items in the cart match the items added.
+2025-07-22T09:23:11-04:00 [info]: Finish button clicked
+2025-07-22T09:23:11-04:00 [info]: Order completion message verified: 'THANK YOU FOR YOUR ORDER'
+2025-07-22T09:26:31-04:00 [info]: Navigated to url
+2025-07-22T09:26:31-04:00 [info]: Navigated to url
+2025-07-22T09:26:31-04:00 [info]: Filled username
+2025-07-22T09:26:31-04:00 [info]: Filled username
+2025-07-22T09:26:31-04:00 [info]: Filled pasword
+2025-07-22T09:26:31-04:00 [info]: Filled pasword
+2025-07-22T09:26:31-04:00 [info]: Navigated to url
+2025-07-22T09:26:31-04:00 [info]: Navigated to url
+2025-07-22T09:26:31-04:00 [info]: Filled username
+2025-07-22T09:26:31-04:00 [info]: Filled pasword
+2025-07-22T09:26:31-04:00 [info]: Filled username
+2025-07-22T09:26:31-04:00 [info]: Filled pasword
+2025-07-22T09:26:31-04:00 [info]: Login successful, redirected to inventory page.
+2025-07-22T09:26:31-04:00 [info]: Login successful, redirected to inventory page.
+2025-07-22T09:26:31-04:00 [info]: Login successful, redirected to inventory page.
+2025-07-22T09:26:31-04:00 [info]: Login successful, redirected to inventory page.
+2025-07-22T09:26:33-04:00 [info]: Applied filter by Name (Descending Order)
+2025-07-22T09:26:34-04:00 [info]: Selected sort option is correctly displayed as: Name (Z to A)
+2025-07-22T09:26:34-04:00 [info]: Product listings are correctly sorted by Name (Descending Order)
+2025-07-22T09:26:34-04:00 [info]: Applied filter by Price (Low to High)
+2025-07-22T09:26:34-04:00 [info]: Selected sort option is correctly displayed as: Price (low to high)
+2025-07-22T09:26:34-04:00 [info]: Product listings are updated according to the Price (Low to High) filter
+2025-07-22T09:26:34-04:00 [info]: All items removed from the cart and localStorage cleared.
+2025-07-22T09:26:35-04:00 [info]: Items added to cart and stored in local storage
+2025-07-22T09:26:35-04:00 [info]: Items added to cart and stored in local storage
+2025-07-22T09:26:36-04:00 [info]: Verified items in the cart match the items added.
+2025-07-22T09:26:36-04:00 [info]: Entered Personal information
+2025-07-22T09:26:36-04:00 [info]: Continue button clicked in checkout page
+2025-07-22T09:26:37-04:00 [info]: Total price validation passed. Calculated total price matches the value on the checkout summary page.
+2025-07-22T09:26:37-04:00 [info]: Verified items in the cart match the items added.
+2025-07-22T09:26:37-04:00 [info]: Finish button clicked
+2025-07-22T09:26:37-04:00 [info]: Order completion message verified: 'THANK YOU FOR YOUR ORDER'
+2025-07-22T09:29:22-04:00 [info]: Navigated to url
+2025-07-22T09:29:22-04:00 [info]: Filled username
+2025-07-22T09:29:22-04:00 [info]: Navigated to url
+2025-07-22T09:29:22-04:00 [info]: Filled pasword
+2025-07-22T09:29:22-04:00 [info]: Filled username
+2025-07-22T09:29:22-04:00 [info]: Filled pasword
+2025-07-22T09:29:22-04:00 [warn]: Error message found: Epic sadface: Sorry, this user has been locked out.
+2025-07-22T09:29:23-04:00 [info]: Login successful, redirected to inventory page.
+2025-07-22T09:29:41-04:00 [info]: Navigated to url
+2025-07-22T09:29:41-04:00 [info]: Filled username
+2025-07-22T09:29:41-04:00 [info]: Filled pasword
+2025-07-22T09:29:41-04:00 [info]: Navigated to url
+2025-07-22T09:29:41-04:00 [info]: Filled username
+2025-07-22T09:29:41-04:00 [info]: Filled pasword
+2025-07-22T09:29:41-04:00 [info]: Login successful, redirected to inventory page.
+2025-07-22T09:29:42-04:00 [info]: Login successful, redirected to inventory page.
+2025-07-22T09:29:44-04:00 [info]: Applied filter by Name (Descending Order)
+2025-07-22T09:29:44-04:00 [info]: Selected sort option is correctly displayed as: Name (Z to A)
+2025-07-22T09:29:44-04:00 [info]: Product listings are correctly sorted by Name (Descending Order)
+2025-07-22T09:29:44-04:00 [info]: Applied filter by Price (Low to High)
+2025-07-22T09:29:44-04:00 [info]: Selected sort option is correctly displayed as: Price (low to high)
+2025-07-22T09:29:44-04:00 [info]: Product listings are updated according to the Price (Low to High) filter
+2025-07-22T09:29:44-04:00 [info]: All items removed from the cart and localStorage cleared.
+2025-07-22T09:34:07-04:00 [info]: Navigated to url
+2025-07-22T09:34:07-04:00 [info]: Navigated to url
+2025-07-22T09:34:07-04:00 [info]: Filled username
+2025-07-22T09:34:07-04:00 [info]: Filled username
+2025-07-22T09:34:07-04:00 [info]: Filled pasword
+2025-07-22T09:34:07-04:00 [info]: Filled pasword
+2025-07-22T09:34:07-04:00 [info]: Navigated to url
+2025-07-22T09:34:07-04:00 [info]: Navigated to url
+2025-07-22T09:34:08-04:00 [info]: Filled username
+2025-07-22T09:34:08-04:00 [info]: Filled pasword
+2025-07-22T09:34:08-04:00 [info]: Filled username
+2025-07-22T09:34:08-04:00 [info]: Filled pasword
+2025-07-22T09:34:08-04:00 [info]: Login successful, redirected to inventory page.
+2025-07-22T09:34:08-04:00 [info]: Login successful, redirected to inventory page.
+2025-07-22T09:34:08-04:00 [info]: Login successful, redirected to inventory page.
+2025-07-22T09:34:08-04:00 [info]: Login successful, redirected to inventory page.
+2025-07-22T09:34:10-04:00 [info]: All items removed from the cart and localStorage cleared.
+2025-07-22T09:34:10-04:00 [info]: Applied filter by Name (Descending Order)
+2025-07-22T09:34:10-04:00 [info]: Selected sort option is correctly displayed as: Name (Z to A)
+2025-07-22T09:34:10-04:00 [info]: Product listings are correctly sorted by Name (Descending Order)
+2025-07-22T09:34:10-04:00 [info]: Applied filter by Price (Low to High)
+2025-07-22T09:34:10-04:00 [info]: Selected sort option is correctly displayed as: Price (low to high)
+2025-07-22T09:34:10-04:00 [info]: Product listings are updated according to the Price (Low to High) filter
+2025-07-22T09:34:11-04:00 [info]: Items added to cart and stored in local storage
+2025-07-22T09:34:11-04:00 [info]: Items added to cart and stored in local storage
+2025-07-22T09:34:11-04:00 [info]: Verified items in the cart match the items added.
+2025-07-22T09:34:11-04:00 [info]: Verified items in the cart match the items added.
+2025-07-22T09:34:12-04:00 [info]: Entered Personal information
+2025-07-22T09:34:12-04:00 [info]: Continue button clicked in checkout page
+2025-07-22T09:34:12-04:00 [info]: Total price validation passed. Calculated total price matches the value on the checkout summary page.
+2025-07-22T09:34:12-04:00 [info]: Verified items in the cart match the items added.
+2025-07-22T09:34:13-04:00 [info]: Finish button clicked
+2025-07-22T09:34:13-04:00 [info]: Order completion message verified: 'THANK YOU FOR YOUR ORDER'
