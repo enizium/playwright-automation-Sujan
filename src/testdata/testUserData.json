@@ -1,0 +1,10 @@
+{
+  "user1": {
+    "usernameid": "locked_out_user",
+    "password": "secret_sauce"
+  },
+  "user2": {
+    "usernameid": "standard_user",
+    "password": "secret_sauce"
+  }
+}
